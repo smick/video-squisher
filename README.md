@@ -24,7 +24,7 @@ For example:
 
 `python squish_video_ffmpeg.py "/aliens/took/my/laptop/videos/SquirrelNinjaAcademy.mp4" 59`
 
-This command will take the input video file, squish it to fit the 30-second duration, and save the result as a new file with `_squish` added to the end of the file name. The output video will have audio that is in sync with the adjusted video speed.
+This command will take the input video file, squish it to fit the 59-second duration, and save the result as a new file with `_squish` added to the end of the file name. The output video will have audio that is in sync with the adjusted video speed.
 
 ## License
 
