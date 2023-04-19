@@ -10,7 +10,7 @@ This Python script uses FFmpeg to squish a video to fit a specified duration whi
 ## Installation
 
 1. Install Python 3.6 or higher, if not already installed.
-2. Install FFmpeg on your system. Follow the installation instructions on the [official FFmpeg website](https://www.ffmpeg.org/download.html).
+2. Install FFmpeg on your system. Follow the installation instructions on the [official FFmpeg website](https://www.ffmpeg.org/download.html). If you're on OS X you can use brew `brew install ffmpeg`.
 
 ## Usage
 
